@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#" xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:tags="http://www.holygoat.co.uk/owl/redwood/0.1/tags/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cycAnnot="http://sw.cyc.com/CycAnnotations_v1#"
+	xmlns:csw="http://semantic-web.at/ontologies/csw.owl#"
+	xmlns:dbpedia="http://dbpedia.org/resource/" xmlns:freebase="http://rdf.freebase.com/ns/"
+	xmlns:opencyc="http://sw.opencyc.org/concept/" xmlns:cyc="http://sw.cyc.com/concept/"
+	xmlns:ctag="http://commontag.org/ns#">	
+	<skos:ConceptScheme rdf:about="http://example.org/vocabularies/climatechange/0.1/">
+		<dcterms:title xml:lang="en">Harvard Business School Climate Change Concept Scheme</dcterms:title>
+		<skos:hasTopConcept
+			rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept52"/>
+		<skos:hasTopConcept
+			rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept1"/>
+		<skos:hasTopConcept
+			rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:hasTopConcept
+			rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept5"/>
+		<skos:hasTopConcept
+			rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept9"/>
+		<skos:hasTopConcept
+			rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept10"/>
+		<dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harvard Business School Climate Change Concept Scheme</dc:title>
+		<dc:subject rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+		<dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tim Thompson</dc:creator>
+		<dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+		<dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+		<dc:rights rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+		<dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+		<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14</dc:date>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T14:24:17.779Z</dcterms:modified>
+		<dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</dc:language>
+	</skos:ConceptScheme>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept1">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:03:35</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:topConceptOf rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Challenges</skos:prefLabel>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept47"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept13"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept14"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept50"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T14:31:44.689Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept10">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:03:35</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:topConceptOf rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Technologies</skos:prefLabel>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept23"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:59:09</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept13">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:37:44</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Commodity prices</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept1"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:12:50.743Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept14">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:37:44</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Food production</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept1"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept17"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:13:06.684Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept17">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:38:39</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Livestock production</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept14"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept36"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept18">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:41:28</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Plant-based food</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept9"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept22"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept37"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:16:49.819Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept19">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:41:28</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Renewable energy</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept9"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept28"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept21"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:17:09.554Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept2">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:03:35</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:topConceptOf rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Topics</skos:prefLabel>
+		<skos:altLabel xml:lang="en">Factors</skos:altLabel>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept40"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept25"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept29"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept43"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept32"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept38"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept20"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept49"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept65"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept42"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T14:27:54.679Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept20">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:41:28</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Public policy</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept21"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:20:13.912Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept21">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:42:05</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Energy policy</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept20"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept44"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept28"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept19"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept109"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:20:24.970Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept22">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:46:26</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Plant-based meat</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept18"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:17:01.440Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept23">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:48:48</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Hydraulic fracturing</skos:prefLabel>
+		<skos:altLabel xml:lang="en">Fracking</skos:altLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept10"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:17:20.795Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept25">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:50:14</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Commodities</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept26"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept27"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept26">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:51:17</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Natural gas</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept25"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:17:47.081Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept27">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:51:17</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Oil</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept25"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept28">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:52:25</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Energy industry</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept5"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept21"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept19"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept109"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:16:34.713Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept29">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:53:55</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Consumer behavior</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept33"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:17:56.900Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept32">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:01:43</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Economic growth</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept38"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept39"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:18:59.122Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept33">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:02:10</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Consumption</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept29"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept35"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept34"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept43"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept34">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:03:10</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Food consumption</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept33"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept36"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept37"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:18:15.542Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept35">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:03:22</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Energy consumption</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept33"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept44"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:18:07.820Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept36">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:04:16</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Meat consumption</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept34"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept17"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:18:24.258Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept37">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:04:16</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Plant consumption</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept34"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept18"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:18:31.934Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept38">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:08:13</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Expansion</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept39"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept32"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept39">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:08:24</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">International expansion</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept38"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept32"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:18:59.122Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept40">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:08:33</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Capital</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept41"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept41">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:09:08</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Initial public offerings</skos:prefLabel>
+		<skos:altLabel xml:lang="en">IPOs</skos:altLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept40"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:17:36.730Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept42">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:09:38</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Research and development</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:20:31.244Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept43">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:10:24</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Production</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept44"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept33"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept44">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:12:00</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Energy production</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept43"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept45"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept35"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept21"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept109"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:19:16.051Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept45">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:20:08</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Domestic energy production</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept44"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:19:57.470Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept47">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:30:03</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Greenhouse gas emissions</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept1"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept48"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:13:17.192Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept48">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:30:11</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Carbon emissions</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept47"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept109"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:13:34.818Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept49">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:30:37</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Political elections</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept50"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept59"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:19:06.041Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept5">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:03:35</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:topConceptOf rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Industries</skos:prefLabel>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept28"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:56:45</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept50">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:31:27</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Political polarization</skos:prefLabel>
+		<skos:altLabel xml:lang="en">Political partisanship</skos:altLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept1"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept49"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept65"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept59"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:13:44.725Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept52">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:36:32</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:topConceptOf rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Actors</skos:prefLabel>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept53"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept62"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept53">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:37:24</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Groups</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept52"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept54"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept55"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept56"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept57"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept58"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept59"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept54">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:37:56</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Academic institutions</skos:prefLabel>
+		<skos:altLabel xml:lang="en">Higher education</skos:altLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept53"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:12:10.322Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept55">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:39:55</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Corporations</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept53"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept56">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:39:55</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Governments</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept53"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept57">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:39:55</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Intergovernmental organizations</skos:prefLabel>
+		<skos:altLabel xml:lang="en">IGOs</skos:altLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept53"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:12:21.825Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept58">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:39:55</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Nonprofit organizations</skos:prefLabel>
+		<skos:altLabel xml:lang="en">NGOs</skos:altLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept53"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:12:29.433Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept59">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:40:51</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Political parties</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept53"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept50"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept49"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:12:38.418Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept62">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:43:08</dcterms:created>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Individuals</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept52"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept65">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			14:44:52</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Public opinion</skos:prefLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept2"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept50"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:20:05.885Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept9">
+		<rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022-08-14
+			13:03:35</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:inScheme rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:topConceptOf rdf:resource="http://example.org/vocabularies/climatechange/0.1/"/>
+		<skos:prefLabel xml:lang="en">Solutions</skos:prefLabel>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept19"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept18"/>
+		<skos:narrower rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept109"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:15:59.387Z</dcterms:modified>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://example.org/vocabularies/climatechange/0.1/concept109">
+		<dcterms:creator rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:11:04.172Z</dcterms:created>
+		<dcterms:contributor rdf:resource="https://enterprise.poolparty.biz/user/timothy_thompson"/>
+		<skos:prefLabel xml:lang="en">Carbon emissions targets</skos:prefLabel>
+		<skos:altLabel xml:lang="en">Carbon emissions reduction</skos:altLabel>
+		<skos:broader rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept9"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept48"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept44"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept28"/>
+		<skos:related rdf:resource="http://example.org/vocabularies/climatechange/0.1/concept21"/>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+			>2022-08-15T16:16:34.713Z</dcterms:modified>
+	</skos:Concept>
+</rdf:RDF>
