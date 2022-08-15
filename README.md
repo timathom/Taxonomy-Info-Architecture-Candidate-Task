@@ -1,6 +1,6 @@
 ---
 author: [Tim Thompson, timathom@protonmail.com]
-date: August 14, 2022
+date: August 15, 2022
 ---
 
 # Taxonomy & Info Architecture Candidate Task
