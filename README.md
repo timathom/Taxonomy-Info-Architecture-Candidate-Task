@@ -3,7 +3,7 @@ author: [Tim Thompson, timathom@protonmail.com]
 date: August 15, 2022
 ---
 
-# Taxonomy & Info Architecture Candidate Task
+# Taxonomy & Info Architecture Task
 
 ## Methodology
 1. Twenty-one sample abstracts were parsed into individual documents using an XQuery program in the [BaseX](basex.org) platform.
