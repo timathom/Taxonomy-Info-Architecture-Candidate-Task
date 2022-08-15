@@ -16,7 +16,7 @@ Markdown documentation created by [pyLODE](http://github.com/rdflib/pyLODE)
   * 2022-08-15T14:24:17.779000+00:00
 
 * **Taxonomy RDF**
-  * RDF ([pp_project_harvardbusinessschoolclimatechangeconceptscheme.rdf](xml))
+  * RDF ([pp_project_harvardbusinessschoolclimatechangeconceptscheme.rdf](https://github.com/timathom/Taxonomy-Info-Architecture-Candidate-Task/blob/main/concepts/pp_project_harvardbusinessschoolclimatechangeconceptscheme.rdf))
 ### Description
 
 
