@@ -99,7 +99,7 @@
                 "type": "Creation",
                 "classified_as": [
                     {
-                        "id": "http://example.org/concept/ed995211-b89b-442e-b634-05759085d8aa",
+                        "id": "http://example.org/data/concept/ed995211-b89b-442e-b634-05759085d8aa",
                         "type": "Type",
                         "_label": "Contributor"
                     }
@@ -219,49 +219,44 @@
             "_label": "Romney, Mitt"
         },
         {
-            "id": "http://example.org/vocabularies/climatechange/0.1/concept15",
-            "type": "Type",
-            "_label": "Political Partisanship"
-        },
-        {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept50",
             "type": "Type",
-            "_label": "Political Polarization"
-        },
+            "_label": "Political polarization"
+        },       
         {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept35",
             "type": "Type",
-            "_label": "Energy Consumption"
+            "_label": "Energy consumption"
         },
         {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept28",
             "type": "Type",
-            "_label": "Energy Industry"
+            "_label": "Energy industry"
         },
         {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept21",
             "type": "Type",
-            "_label": "Energy Policy"
+            "_label": "Energy policy"
         },
         {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept44",
             "type": "Type",
-            "_label": "Energy Production"
+            "_label": "Energy production"
         },
         {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept19",
             "type": "Type",
-            "_label": "Renewable Energy"
+            "_label": "Renewable energy"
         },
         {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept13",
             "type": "Type",
-            "_label": "Commodity Prices"
+            "_label": "Commodity prices"
         },
         {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept26",
             "type": "Type",
-            "_label": "Natural Gas"
+            "_label": "Natural gas"
         },
         {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept27",
@@ -271,12 +266,12 @@
         {
             "id": "http://example.org/vocabularies/climatechange/0.1/concept23",
             "type": "Type",
-            "_label": "Hydraulic Fracturing"
+            "_label": "Hydraulic fracturing"
         }
     ],
     "carried_by": [
         {
-            "id": "http://example.org/data//9338128b-062e-4bc6-b4cf-acd7d7f67ec2",
+            "id": "http://example.org/data/object/9338128b-062e-4bc6-b4cf-acd7d7f67ec2",
             "type": "HumanMadeObject",
             "classified_as": [
                 {
