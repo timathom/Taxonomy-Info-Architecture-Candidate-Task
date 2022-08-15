@@ -11,7 +11,7 @@ date: August 15, 2022
 1. A set of 42 text files was generated from the citation and abstract elements within the documents.
 1. The text files were used to create a dataset for analysis within the [Distant Reader Toolbox](https://reader-toolbox.readthedocs.io/en/latest/index.html) (DRT), a command-line tool for text analysis.
 1. The dataset was examined using the available DRT algorithms, including topic modeling, entity recognition, concept clustering, and term co-occurrence.
-1. The simple network graph below ([Fig. 1](#Collocation-graph)) shows the output of the DRT collocation algorithm for term co-occurrence.
+1. The simple network graph below shows the output of the DRT collocation algorithm for term co-occurrence.
 1. Analysis of the graph suggested that an entity-driven approach to metadata modeling and concept scheme development for the project would be appropriate.
 1. Entities to be incorporated include:
     - Concepts
