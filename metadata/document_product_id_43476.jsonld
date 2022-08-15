@@ -1,0 +1,297 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "http://example.org/data/text/be4fbd6c-25cf-436f-8de2-cafcb2e62090",
+    "type": "LinguisticObject",
+    "_label": "Romney vs. Obama and U.S. Energy Policy",
+    "classified_as": [
+        {
+            "id": "http://example.org/data/concept/c0c40f80-09f5-42de-a3f8-295ddb8abbc6",
+            "type": "Type",
+            "_label": "Cases",
+            "classified_as": [
+                {
+                    "id": "http://example.org/data/concept/77a41444-dbc9-4ebc-bd92-d56e490d0e9b",
+                    "type": "Type",
+                    "_label": "Document Type"
+                }
+            ]
+        }
+    ],
+    "identified_by": [
+        {
+            "type": "Identifier",
+            "content": "43476",
+            "classified_as": [
+                {
+                    "id": "http://example.org/data/concept/5020b403-c0cd-400e-b9f9-63aae5f360af",
+                    "type": "Type",
+                    "_label": "Product Identifier"
+                }
+            ],
+            "attributed_by": [
+                {
+                    "type": "AttributeAssignment",
+                    "carried_out_by": [
+                        {
+                            "id": "http://example.org/data/group/8a429dc6-7352-4ea7-b88b-6a3a62f9d3cc",
+                            "type": "Group",
+                            "_label": "Harvard Business School"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Identifier",
+            "content": "713-050",
+            "classified_as": [
+                {
+                    "id": "http://example.org/data/concept/ec660d0c-2d0a-4d86-a505-deb52122636f",
+                    "type": "Type",
+                    "_label": "Case Number"
+                }
+            ],
+            "attributed_by": [
+                {
+                    "type": "AttributeAssignment",
+                    "carried_out_by": [
+                        {
+                            "id": "http://example.org/data/group/8a429dc6-7352-4ea7-b88b-6a3a62f9d3cc",
+                            "type": "Group",
+                            "_label": "Harvard Business School"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Name",
+            "content": "Romney vs. Obama and U.S. Energy Policy",
+            "classified_as": [
+                {
+                    "id": "http://example.org/data/concept/04468525-e6f3-4aae-9d04-a1cca6b4a2d8",
+                    "type": "Type",
+                    "_label": "Primary Name"
+                }
+            ]
+        }
+    ],
+    "created_by": {
+        "part": [
+            {
+                "type": "Creation",
+                "classified_as": [
+                    {
+                        "id": "http://example.org/data/concept/083b5d2e-655f-4928-aa8a-37f580867a14",
+                        "type": "Type",
+                        "_label": "Creator"
+                    }
+                ],
+                "carried_out_by": [
+                    {
+                        "id": "http://example.org/data/person/05e2f4a6-a251-4e87-9900-93b3aac21a53",
+                        "type": "Person",
+                        "_label": "Abdelal, Rawi"
+                    }
+                ]
+            },
+            {
+                "type": "Creation",
+                "classified_as": [
+                    {
+                        "id": "http://example.org/concept/ed995211-b89b-442e-b634-05759085d8aa",
+                        "type": "Type",
+                        "_label": "Contributor"
+                    }
+                ],
+                "carried_out_by": [
+                    {
+                        "id": "http://example.org/data/person/b3ad95a1-7c1c-4e85-a7dd-9833940ce158",
+                        "type": "Person",
+                        "_label": "Tuthill, Kaitlyn"
+                    }
+                ]
+            }
+        ],
+        "type": "Creation"
+    },
+    "used_for": [
+        {
+            "type": "Activity",
+            "classified_as": [
+                {
+                    "id": "http://example.org/data/concept/d1d83293-3374-4fba-916a-ce79c31184d3",
+                    "type": "Type",
+                    "_label": "Publishing"
+                }
+            ],
+            "carried_out_by": [
+                {
+                    "id": "http://example.org/data/group/8a429dc6-7352-4ea7-b88b-6a3a62f9d3cc",
+                    "type": "Group",
+                    "_label": "Harvard Business School"
+                }
+            ],
+            "timespan": [
+                {
+                    "type": "TimeSpan",
+                    "identified_by": [
+                        {
+                            "type": "Name",
+                            "content": "October 2012",
+                            "classified_as": [
+                                {
+                                    "id": "http://example.org/data/concept/925008e9-fe7e-419c-85ab-e956609c9e41",
+                                    "type": "Type",
+                                    "_label": "Display Title"
+                                }
+                            ]
+                        }
+                    ],
+                    "begin_of_the_begin": "2012-10-01T00:00:00",
+                    "end_of_the_end": "2012-10-31T23:59:59"
+                }
+            ]
+        }
+    ],
+    "referred_to_by": [
+        {
+            "type": "LinguisticObject",
+            "content": "In 2012, the energy sector in the United States was demanding major reform. Prices of oil and gas had continued to cripple the middle and lower class as the U.S. economy slowly recovered. At the same time, the U.S. lagged behind developed economies in production of renewable energy. The acceptance of climate change remained a partisan issue. The development of hydraulic fracturing (fracking) promised an abundance of accessible, cheap, domestically produced natural gas, but the cost to the environment remained a point of debate. As incumbent Democratic President Barack Obama faced Republican opponent Mitt Romney in the 2012 election, their (and their parties&apos;) stances on energy policy and the environment differed in several major areas. The results of the election would shape the country&apos;s energy policy for at least the next four years and potentially create enough momentum to set energy policy of the United States for many years to come.",
+            "classified_as": [
+                {
+                    "id": "http://example.org/data/concept/d7f1b5a7-7c5f-4e9b-8887-2619d919f728",
+                    "type": "Type",
+                    "_label": "Abstract",
+                    "classified_as": [
+                        {
+                            "id": "http://example.org/data/concept/05edc03c-6b98-410d-9efd-ac8eb11eb700",
+                            "type": "Type",
+                            "_label": "Brief Text"
+                        }
+                    ]
+                }
+            ],
+            "identified_by": [
+                {
+                    "type": "Name",
+                    "content": "Abstract",
+                    "classified_as": [
+                        {
+                            "id": "http://example.org/data/concept/925008e9-fe7e-419c-85ab-e956609c9e41",
+                            "type": "Type",
+                            "_label": "Display Title"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "about": [
+        {
+            "id": "http://example.org/data/event/c81dea58-2dd9-4ff3-8283-020e9eadac15",
+            "type": "Event",
+            "_label": "United States Presidential Election, 2012"
+        },
+        {
+            "id": "http://example.org/data/place/ab7c8bbc-2d81-445d-bf3b-8f060770989a",
+            "type": "Place",
+            "_label": "United States"
+        },
+        {
+            "id": "http://example.org/data/group/a9a5af44-6383-4adb-b334-3d9bb4aab114",
+            "type": "Group",
+            "_label": "Democratic Party"
+        },
+        {
+            "id": "http://example.org/data/group/5da6d083-3615-4889-a8ff-00924fb473f6",
+            "type": "Group",
+            "_label": "Republican Party"
+        },
+        {
+            "id": "http://example.org/data/person/b34aebb0-fbb2-4380-823e-f7e48b1edd15",
+            "type": "Person",
+            "_label": "Obama, Barack"
+        },
+        {
+            "id": "http://example.org/data/person/92ac3902-c694-4967-845a-391e991a341b",
+            "type": "Person",
+            "_label": "Romney, Mitt"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept15",
+            "type": "Type",
+            "_label": "Political Partisanship"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept50",
+            "type": "Type",
+            "_label": "Political Polarization"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept35",
+            "type": "Type",
+            "_label": "Energy Consumption"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept28",
+            "type": "Type",
+            "_label": "Energy Industry"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept21",
+            "type": "Type",
+            "_label": "Energy Policy"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept44",
+            "type": "Type",
+            "_label": "Energy Production"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept19",
+            "type": "Type",
+            "_label": "Renewable Energy"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept13",
+            "type": "Type",
+            "_label": "Commodity Prices"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept26",
+            "type": "Type",
+            "_label": "Natural Gas"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept27",
+            "type": "Type",
+            "_label": "Oil"
+        },
+        {
+            "id": "http://example.org/vocabularies/climatechange/0.1/concept23",
+            "type": "Type",
+            "_label": "Hydraulic Fracturing"
+        }
+    ],
+    "carried_by": [
+        {
+            "id": "http://example.org/data//9338128b-062e-4bc6-b4cf-acd7d7f67ec2",
+            "type": "HumanMadeObject",
+            "classified_as": [
+                {
+                    "id": "http://example.org/data/concept/54acd2c6-6733-44e0-a7ca-d488e5683553",
+                    "type": "Type",
+                    "_label": "Print",
+                    "classified_as": [
+                        {
+                            "id": "http://example.org/data/concept/563d86df-13f9-47d0-8598-67d0757bce03",
+                            "type": "Type",
+                            "_label": "Media Type"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
