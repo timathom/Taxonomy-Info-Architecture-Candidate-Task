@@ -30,13 +30,13 @@ date: August 14, 2022
 ![Collocation graph](img/collocations.png)
 
 ## Deliverables
-1. Climate change concept scheme. An example SKOS concept scheme with six top concepts that may be leveraged as user interface facets for browsing:
+1. [Climate change concept scheme](https://github.com/timathom/Taxonomy-Info-Architecture-Candidate-Task/tree/main/concepts). An example SKOS concept scheme with six top concepts that may be leveraged as user interface facets for browsing:
     - Actors
     - Challenges
     - Topics
     - Industries
     - Solutions
     - Technologies
-2. Metadata documents. 
+2. [Metadata documents](https://github.com/timathom/Taxonomy-Info-Architecture-Candidate-Task/tree/main/metadata). 
     - Example Linked Art descriptions of a document entity, an event entity, and a person entity.
     - Two example DITA documents with hand-coded markup of concepts and entities.
