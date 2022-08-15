@@ -25,6 +25,7 @@ date: August 14, 2022
 1. The [Linked Art](linked.art) metadata model was chosen because of its ability to leverage concept schemes within an entity-driven framework.
 1. [DITA](https://www.oasis-open.org/committees/tc_home.php) (Darwin Information Typing Architecture) documents were generated for the dataset documents to facilitate hand-coded markup of concepts.
 1. The sample concept scheme was developed using the [TemaTres](https://vocabularyserver.com/web/) and [PoolParty](https://enterprise.poolparty.biz/PoolParty/) platforms.
+1. Markdown documentation for the concept scheme was generated using the [pyLODE](https://github.com/RDFLib/pyLODE) tool.
 
 ![Collocation graph](img/collocations.png)
 
