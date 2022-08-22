@@ -37,7 +37,7 @@ Property | Value
 --- | ---
 URI | `http://example.org/vocabularies/climatechange/0.1/concept1`
 Preferred Labels |Challenges (en)<br />
-Narrower Concepts |[Food production](#Food-production) (con)<br />[Greenhouse gas emissions](#Greenhousegasemissions) (con)<br />[Commodity prices](#Commodityprices) (con)<br />[Political polarization](#Politicalpolarization) (con)<br />
+Narrower Concepts |[Food production](#Food-production) (con)<br />[Greenhouse gas emissions](#Greenhousegasemissions) (con)<br />[Commodity prices](#Commodityprices) (con)<br />[Political polarization](#Political-polarization) (con)<br />
 ### Technologies
 Property | Value
 --- | ---
